@@ -1,0 +1,6 @@
+@AZ_AI_Speech_SpeechToText_HostAddress = http://localhost:5105
+
+GET {{AZ_AI_Speech_SpeechToText_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
